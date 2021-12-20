@@ -1199,7 +1199,7 @@ jQuery(window).on('load', function() {
     Industry.load();
     setTimeout(function() {
         jQuery('#loading-area').remove();
-    }, 0);
+    }, 500);
 });
 /*  Window Load END */
 /* Window Resize START */

@@ -3167,7 +3167,7 @@ blockquote:before {
 
 .main-bar {
     background: white;
-    /* background-image: url(../images/background/background_3-min.png); */
+    
     background-size: 16rem;
     width: 100%;
     position: relative
@@ -13396,7 +13396,7 @@ ol.commentlist li .star-rating {
     z-index: 999999999;
     background-image: url(../images/loading.png);
     background-repeat: no-repeat;
-    background-size: 80px;
+    background-size: 200px;
     background-position: center
 }
 
