@@ -3451,7 +3451,7 @@ ol.commentlist li .meta span {
     width: 100%;
     position: relative;
     padding-top: 65px;
-    background-color: rgba(0, 0, 0, 0)
+    /* background-color: rgba(0, 0, 0, 0) */
 }
 
 .frame-box .top-bar {
